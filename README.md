@@ -9,4 +9,6 @@ Costas Arrays are mathematical significant arrays that have an auto-correlation 
  
 ## Access to Code*
 Open an issue [here](https://github.com/solomonae/Costas-Array-Project/issues) to request access.
+
+## Poster
 ![image](https://github.com/user-attachments/assets/e4030c3e-0c25-4d7b-9337-eb3cfa60e34e)
