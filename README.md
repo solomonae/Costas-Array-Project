@@ -8,4 +8,4 @@ This is a senior project.
 Costas Arrays are mathematical significant arrays that have an auto-correlation that peaks only when it is alligned with itself on both axis, here the axis are time and frequency, and no significant value anywhere else. The success of this project can allow a new way to research the effects the Ionishpere has on signals, and specifically short wave signals in this project.
  
 ## Access to Code*
-For access to the code of this project, open an issue.
+Open an issue [here](https://github.com/solomonae/Costas-Array-Project/issues) to request access.
